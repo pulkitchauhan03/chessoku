@@ -1,8 +1,9 @@
-# React + Vite
+# Chessoku
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## A game of Chess and Sudoku
 
-Currently, two official plugins are available:
+This is a wrapper website for Chess and Sudoku games hosted separately
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Chess Frontend Repo](https://github.com/pulkitchauhan03/online-chess)
+- [Chess Backend Repo](https://github.com/pulkitchauhan03/online-chess-server)
+- [Sudoku Repo](https://github.com/pulkitchauhan03/SudokuApp)
