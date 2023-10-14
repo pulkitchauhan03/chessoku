@@ -1,6 +1,5 @@
 # Chessoku
-
-## A game of Chess and Sudoku
+  A game of Chess and Sudoku
 
 This is a wrapper website for Chess and Sudoku games hosted separately
 
